@@ -20,3 +20,9 @@ this ones called twisteds, or [howlers](howlers.md), the remainder of what radia
 Nobody have ever found this machine so far.<br/>
 
 [tag]: #sci-fi
+[tag]: #scifi
+[tag]: #post-apocalyptic
+[tag]: #deserted_world
+[tag]: #mutants
+[tag]: #giant_animals
+[tag]: #radiation
