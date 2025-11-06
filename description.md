@@ -18,3 +18,5 @@ immune to radioactivity.<br/>
 his is what make them alive and going, chasing this dream. That justify the risks of the giant animals, and the men-mutants - 
 this ones called twisteds, or [howlers](howlers.md), the remainder of what radiation can do to men or animals outside the cities. 
 Nobody have ever found this machine so far.<br/>
+
+[tag]: #sci-fi
