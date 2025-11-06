@@ -1,9 +1,8 @@
-Nobody seems to remember what happened. It happened so long ago, it had faded away. There are no records of it. As if the books have
-been all destroyed, alongside with civilization.<br/>
+The books have been all destroyed, alongside with civilization. Nobody seems to remember what happened. It happened so long ago, it had faded away. There are no records of it.<br/>
 
-As far as anyone remembers, the world was always radioactive, destroyed, deserted and covered in grey sand.<br/>
+As far as anyone remembers, the world was always radioactive, in ruins, deserted and covered in grey sand.<br/>
 
-You all know that things were different in the past though. You see lots of cars abandoned and decayed, useless, long ago. But most
+You all know that things were different in the past though. You see lots of cars abandoned and decayed, useless, from long ago. But most
 impressive are the remains of the sky-scrappers: their impossibility - the sheer hubris of building so high in a world that can no 
 longer manage to build on the surface.<br/>
 
@@ -17,7 +16,7 @@ There is little love lost between most of the citizens and the Dusters, though -
 desired, but more and more people seem to think that the outside world should be forgotten - and the duster's runs are waste of resources.
 <br/>
 To walk outside, only in a radiation suit. The only safe places apart from the crawlers are the cities carved below the ground. But
-there is a legend, that all travelers pursue: the legend of a machine, the [Untainted Heart](untainted_heart.md), that can make people 
+there is a legend, that all dusters pursue: the legend of a machine, the [Untainted Heart](untainted_heart.md), that can make people 
 immune to radioactivity.<br/>
 
 This is what makes them alive and going, chasing this dream. That justify the risks of fighting giant animals, and the men-mutants - 
