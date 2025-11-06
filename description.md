@@ -8,13 +8,13 @@ You see the remains of buildings, that no one seems to be able to build anymore.
 ago. All things of the past.<br/>
 
 You were able to learn how to fix and even build your own vehicles examining the ones from the past. The only way of travel is inside
-those, large closed tank-like vans, the (sand crawlers)[sand_crawlers.md] - vehicles and homes for the (travelers)[travelers.md] 
-- as the ones who roam through the deserts using the crawlers are known.<br/> 
+those, large closed tank-like vans, the [sand crawlers](sand_crawlers.md) - vehicles and homes for the [travelers](travelers.md) 
+\- as the ones who roam through the deserts using the crawlers are known.<br/> 
 
 To walk outside, only in a radiation suit. The only safe places apart from the crawlers are the cities carved below the ground. But
-there is a legend, that all travelers pursue: the legend of a machine, the (Untainted Heart)[untainted_heart.md], that can make people 
+there is a legend, that all travelers pursue: the legend of a machine, the [Untainted Heart](untainted_heart.md), that can make people 
 immune to radioactivity.<br/>
 
 his is what make them alive and going, chasing this dream. That justify the risks of the giant animals, and the men-mutants - 
-this ones called twisteds, or (howlers)[howlers.md], the remainder of what radiation can do to men or animals outside the cities. 
+this ones called twisteds, or [howlers](howlers.md), the remainder of what radiation can do to men or animals outside the cities. 
 Nobody have ever found this machine so far.<br/>
