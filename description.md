@@ -14,7 +14,7 @@ those, large closed tank-like vans, the [sand crawlers](sand_crawlers.md) - vehi
 
 There is little love lost between most of the citizens and the Dusters, though - scarce surface goods that no one else can produce are
 desired, but more and more people seem to think that the outside world should be forgotten - and the duster's runs are waste of resources.
-<br/>
+<br/><br/>
 To walk outside, only in a radiation suit. The only safe places apart from the crawlers are the cities carved below the ground. But
 there is a legend, that all dusters pursue: the legend of a machine, the [Untainted Heart](untainted_heart.md), that can make people 
 immune to radioactivity.<br/>
