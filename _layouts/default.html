@@ -4,7 +4,7 @@
 {% for page in sorted_pages %}
   {% assign data_string = data_string | append: page.url | append: "," %}
 {% endfor %}
-<html data-nav={{ data_string | url_encode }} lang="{{ site.lang | default: "en-US" }}">
+<html data-nav={{ data_string | url_encode }} xlang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
