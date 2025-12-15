@@ -1,5 +1,6 @@
 ---
 layout: default
+title: description-short
 ---
 
 The books have been all destroyed, alongside with civilization.<br/>
