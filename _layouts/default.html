@@ -1,11 +1,10 @@
 <!doctype html>
-{% assign data_string = "" %}
-{% assign sorted_pages = site.pages | sort: "title" %}
+{% assign data_string = "" %}{% assign sorted_pages = site.pages | sort: "title" %}
 {% for page in sorted_pages %}
   {% capture data_attribute %}
-    data-p{{ forloop.index }}="{{ page.url }} "
+    data-p{{ forloop.index }}="{{ page.url }}"
   {% endcapture %}
-  {% assign data_string = data_string | append: data_attribute %}}
+  {% assign data_string = data_string | append: data_attribute %}
 {% endfor %}
 <html {{ data_string }} lang="{{ site.lang | default: "en-US" }}">
   <head>
