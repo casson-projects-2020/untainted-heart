@@ -1,3 +1,6 @@
+---
+---
+
 The books have been all destroyed, alongside with civilization.<br/>
 
 The world is now radioactive, in ruins, deserted and covered in grey sand.<br/>
