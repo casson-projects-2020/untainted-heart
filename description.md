@@ -1,3 +1,6 @@
+---
+---
+
 The books have been all destroyed, alongside with civilization. Nobody seems to remember what happened. It happened so long ago, it had faded away. There are no records of it.<br/>
 
 As far as anyone remembers, the world was always radioactive, in ruins, deserted and covered in grey sand.<br/>
