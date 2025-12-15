@@ -1,5 +1,6 @@
 ---
 layout: default
+add_to_nav: true
 ---
 
 The books have been all destroyed, alongside with civilization.<br/>
