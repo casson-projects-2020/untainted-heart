@@ -2,9 +2,9 @@
 {% assign data_string = "" %}
 {% assign sorted_pages = site.pages | sort: "title" %}
 {% for page in sorted_pages %}
-  {% assign data_string = data_string | append: page.url | append: "," %}
+  {% assign data_string = data_string | append: "data-p" | append: forloop.index | append: "=\"" | append: page.url | append: "\" " %}
 {% endfor %}
-<html data-nav={{ data_string | url_encode }} xlang="{{ site.lang | default: "en-US" }}">
+<html {{ data_string }} lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
