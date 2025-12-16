@@ -43,5 +43,5 @@ Nobody have ever found this machine so far.<br/>
 [tag]: #giant_animals
 [tag]: #radiation
 
-![Sand Crawler](sand_crawler.jpeg)
+![Sand Crawler](sand_crawler.jpg)
 
