@@ -26,10 +26,10 @@ Nobody have ever found this machine so far.<br/>
 > ... using the scope, you see a group of howlers running - unusual, but not unseen. You start changing the course to
 > avoid them... and then you see <span data-gender="immune-poss">`her`</span>.<br/>
 > A <span data-gender="immune-gender">`woman`</span>. Running.<br/>
-> <span data-gender="immune-pron">`She`<span> is the cause of the howlers' frenzy. Then something almost like pain, a
+> <span data-gender="immune-pron">`She`</span> is the cause of the howlers' frenzy. Then something almost like pain, a
 > dark malaise-like feeling 
 > washes through you, starting in your head and falling through your shoulders like a burden:
-> <span data-gender="immune-pron">`she`<span> has no suit. <br/>
+> <span data-gender="immune-pron">`she`</span> has no suit. <br/>
 > You almost decide to let the howlers take <span data-gender="immune-poss">`her`</span>. It would be quick, a mercy compared
 > to the weeks of radiation agony before the unavoidable end.<br/>
 > But you cannot force yourself to do it. You have to do something. You ready the sand cannons, adjust the course... to
