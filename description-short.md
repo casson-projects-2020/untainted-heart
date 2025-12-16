@@ -17,7 +17,7 @@ That justify the risks of fighting giant animals, and the men-mutants - the [how
 > <span data-gender="immune-poss">`her`</span>.<br/>
 > A <span data-gender="immune-gender">`woman`</span>. Running.<br/>
 > ... pain hits you like a burden:
-> <span data-gender="immune-pron">`she`<span> has no suit. <br/>
+> <span data-gender="immune-pron">`she`</span> has no suit. <br/>
 > ... Weeks of radiation agony before the unavoidable end.<br/>
 > You have to do something. <br/>
 
