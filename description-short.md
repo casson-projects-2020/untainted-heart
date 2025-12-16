@@ -13,9 +13,9 @@ immune to radioactivity.<br/>
 
 That justify the risks of fighting giant animals, and the men-mutants - the [howlers](howlers.md).
 
-> ...  you see a group of howlers running ... and then you see 
+> ...  you see a group of howlers sprinting ... and then you see 
 > <span data-gender="immune-poss">`her`</span>.<br/>
-> A <span data-gender="immune-gender">`woman`</span>. Running.<br/>
+> A <span data-gender="immune-gender">`woman`</span>. Running off.<br/>
 > ... pain hits you like a burden:
 > <span data-gender="immune-pron">`she`</span> has no suit. <br/>
 > ... Weeks of radiation agony before the unavoidable end.<br/>
