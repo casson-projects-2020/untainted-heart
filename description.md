@@ -20,8 +20,7 @@ there is a legend, that all dusters pursue: the legend of a machine, the [Untain
 immune to radioactivity.<br/>
 
 This is what makes them alive and going, chasing this dream. That justify the risks of fighting giant animals, and the men-mutants - 
-this ones known by several names but mostly [howlers](howlers.md), the remainder of what radiation can do to men or animals outside the cities. 
-Nobody have ever found this machine so far.<br/>
+this ones known by several names but mostly [howlers](howlers.md), the remainder of what radiation can do to men or animals outside the cities.<br/>
 
 > ... with the scope, you see a group of howlers sprinting - unusual, but not unseen. You start changing the course to
 > avoid them... and then you see <span data-gender="immune-poss">`her`</span>.<br/>
