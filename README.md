@@ -1,3 +1,6 @@
+--- 
+layout: default 
+---
 # The Untainted Heart
 {% unless site.github.public_repos %}
 Base text for AI story engine
@@ -7,5 +10,5 @@ This is not the code for the AI story engine itself - this repo contains the fil
 
 This story is open access - no author rights, copyright or royalties are due in any way - and this is also based on a story I read more than 30 years ago. I tried to identify the story and was unable to - so if you have this info, please drop me a line. I intend to add a discord address here, but feel free to open an Issue until then. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjI4NTc3OTJdfQ==
+eyJoaXN0b3J5IjpbMTIzNzY5Mzc5LC0xMjYyODU3NzkyXX0=
 -->
