@@ -49,6 +49,20 @@
           <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
         </div>
 
+        {% if page.config_form %}
+        <form id="config_form">
+          {% for campo in page.config_form %}
+          <div class="field">
+            <label>{{ campo.label }}</label>
+            {% if campo.type == "text" %}
+            <input type="text" name="{{ campo.id }}" placeholder="{{ campo.placeholder }}">
+            {% endif %}
+          </div>
+          {% endfor %}
+          <button type="submit">Gravar Dados e Começar</button>
+        </form>
+        {% endif %}
+
         {{ content }}
 
       </section>
