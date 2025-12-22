@@ -26,12 +26,12 @@ this ones known by several names but mostly [howlers](howlers.md), the remainder
 
 <blockquote class="dynamic_gender">
 ... with the scope, you see a group of howlers sprinting - unusual, but not unseen. You start changing the course to
-avoid them... and then you see [her]{: .gender_element}.<br/>
-A [woman]{: .gender_element}. Running off.<br/>
-[She]{: .gender_element} is the cause of the howlers' frenzy. Then something almost like pain, a
+avoid them... and then you see *her*{: .gender_element}.<br/>
+A *woman*{: .gender_element}. Running off.<br/>
+*She*{: .gender_element} is the cause of the howlers' frenzy. Then something almost like pain, a
 dark malaise-like feeling washes through you, starting in your head and falling through your shoulders like a burden:
-[she]{: .gender_element} has no suit. <br/>
-You almost decide to let the howlers take [her]{: .gender_element}. It would be quick, a mercy 
+*she*{: .gender_element} has no suit. <br/>
+You almost decide to let the howlers take *her*{: .gender_element}. It would be quick, a mercy 
 compared to the weeks of radiation agony before the unavoidable end.<br/>
 But you cannot force yourself to do it. You have to do something. You ready the sand cannons, adjust the course... to
 drive directly into them.<br/>
