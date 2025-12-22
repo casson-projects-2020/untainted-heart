@@ -4,3 +4,4 @@ baseurl: "/untainted-heart"
 markdown: kramdown
 kramdown:
   input: GFM  # GitHub Flavored Markdown
+  parse_block_html: true
