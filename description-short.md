@@ -16,12 +16,12 @@ That justify the risks of fighting giant animals, and the men-mutants - the [how
 </main>
 
 <blockquote class="dynamic_gender">
-> ...  you see a group of howlers sprinting ... and then you see [her]{: .gender_element }.<br/>
-> A [woman]{: .gender_element }. Running off.<br/>
-> ... pain hits you like a burden:
-> [she]{: .gender_element } has no suit. <br/>
-> ... Weeks of radiation agony before the unavoidable end.<br/>
-> You have to do something. <br/>
+...  you see a group of howlers sprinting ... and then you see [her]{: .gender_element }.<br/>
+A [woman]{: .gender_element }. Running off.<br/>
+... pain hits you like a burden:
+[she]{: .gender_element } has no suit. <br/>
+... Weeks of radiation agony before the unavoidable end.<br/>
+You have to do something. <br/>
 </blockquote>
 
 ![Sand Crawler](sand_crawler.jpg)
