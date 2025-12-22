@@ -3,19 +3,19 @@ config_form:
   - id: "lead_name"
     label: "What is your character name?"
     type: "text"
-    placeholder: "Ex: Arthur"
+    placeholder: "Cormac"
   - id: "lead_gender"
     label: "What is your character gender?"
     type: "text"
-    placeholder: "Ex: female"
+    placeholder: "male"
   - id: "deuter_name"
     label: "You may save the life of a character in the story, what is her/his name?"
     type: "text"
-    placeholder: "Ex: Nuala"
+    placeholder: "Nuala"
   - id: "deuter_gender"
     label: "What is the above character gender?"
     type: "text"
-    placeholder: "Ex: male"
+    placeholder: "female"
 ---
 
 <main class="gender_neutral">
