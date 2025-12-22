@@ -43,7 +43,3 @@ this ones known by several names but mostly [howlers](howlers.md), the remainder
 [tag]: #radiation
 
 ![Sand Crawler](sand_crawler.jpg)
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMjMzODYyM119
--->
