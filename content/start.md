@@ -53,6 +53,7 @@ won't like it. The momentary surge of air back into the crawler fills the cabin 
 
 The problem is: you’re firing blind.
 
-You begin to wonder if there’s anything else you can do. Wild ideas race through your mind. Stop and wait? Overload one of the lamps? (Would the explosion scare the creature off?) Open the hatch and fight? Run outside the crawler to draw attention? But you’d have to put
+You begin to wonder if there’s anything else you can do. Wild ideas race through your mind. Stop and wait? Overload one of the lamps? (Would the explosion scare the creature off?) Risk a plow? Or a belly-flop? Damn, what would cause less damage than the scorpion? Open 
+the hatch and fight? Run outside the crawler to draw attention? But you’d have to put
 on your suit first — and while a Scorpion can’t slice through steel and lead, it can snap a person in half.
 </main>
