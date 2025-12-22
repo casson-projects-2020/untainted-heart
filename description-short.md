@@ -1,3 +1,4 @@
+<main class="gender_neutral">
 Almost all books have been lost, alongside with civilization.<br/>
 
 The world is now radioactive, in ruins, deserted and covered in grey sand.<br/>
@@ -12,7 +13,9 @@ All Dusters pursue a legend of a machine, the [Untainted Heart](untainted_heart.
 immune to radioactivity.<br/>
 
 That justify the risks of fighting giant animals, and the men-mutants - the [howlers](howlers.md).
+</main>
 
+<blockquote class="dynamic_gender">
 > ...  you see a group of howlers sprinting ... and then you see 
 > <span data-gender="immune-poss">`her`</span>.<br/>
 > A <span data-gender="immune-gender">`woman`</span>. Running off.<br/>
@@ -20,5 +23,6 @@ That justify the risks of fighting giant animals, and the men-mutants - the [how
 > <span data-gender="immune-pron">`she`</span> has no suit. <br/>
 > ... Weeks of radiation agony before the unavoidable end.<br/>
 > You have to do something. <br/>
+</blockquote>
 
 ![Sand Crawler](sand_crawler.jpg)
