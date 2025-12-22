@@ -8,13 +8,20 @@ config_form:
     label: "What is your character gender?"
     type: "text"
     placeholder: "Ex: female"
+  - id: "deuter_name"
+    label: "You may save the life of a character in the story, what is her/his name?"
+    type: "text"
+    placeholder: "Ex: Nuala"
+  - id: "deuter_gender"
+    label: "What is the above character gender?"
+    type: "text"
+    placeholder: "Ex: male"
 ---
 
-In a few hours, you’ll be back in the Burrow. 'No, stop it. Focus.' The Dusters have a superstition about this: you relax when the mission is almost complete, and that’s when 
-you make mistakes.
+<main class="gender_neutral">
+In a few hours, you’ll be back in the Burrow. 'No, stop it. Focus.' The Dusters have a superstition about this: you relax when the mission is almost complete, and that’s when you make mistakes.
 
-Sleep doesn’t help. You slap your own face and go to make some tea. The scorching sun outside would certainly help keep you awake, but the sand crawler’s windows are made of dark, 
-heavy glass.
+Sleep doesn’t help. You slap your own face and go to make some tea. The scorching sun outside would certainly help keep you awake, but the sand crawler’s windows are made of dark, heavy glass.
 
 Speaking of which — glass. Those bastards asked you to bring glass. Not just any kind, but mirrored windows. You cursed the Agros for the thousandth time. It wasn’t that the job was 
 hard; plenty of windows could be scavenged from the old skyscrapers. But you had a feeling this was another one of their crazy schemes, part of their eternal obsession with improving 
@@ -24,8 +31,7 @@ crop yields. They hadn't revealed the plan to any Duster yet.
 
 Suddenly, the alarm blares, making you spill the rest of your tea.
 
-The scope isn't exactly a marvel of technology. If the path ahead gets much darker than it should, the alarm triggers. Looking at the feed, you see gray sand rising, forming clouds... 
-too close.
+The scope isn't exactly a marvel of technology. If the path ahead gets much darker than it should, the alarm triggers. Looking at the feed, you see gray sand rising, forming clouds... too close.
 
 'Damn it.' You should have been watching the scope. Relaxing near the end always breeds trouble.
 
@@ -49,3 +55,4 @@ The problem is: you’re firing blind.
 
 You begin to wonder if there’s anything else you can do. Wild ideas race through your mind. Stop and wait? Overload one of the lamps? (Would the explosion scare the creature off?) Open the hatch and fight? Run outside the crawler to draw attention? But you’d have to put
 on your suit first — and while a Scorpion can’t slice through steel and lead, it can snap a person in half.
+</main>
