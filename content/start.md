@@ -1,10 +1,10 @@
 ---
 config_form:
-  - id: "player_name"
+  - id: "lead_name"
     label: "What is your character name?"
     type: "text"
     placeholder: "Ex: Arthur"
-  - id: "gender"
+  - id: "lead_gender"
     label: "What is your character gender?"
     type: "text"
     placeholder: "Ex: female"
