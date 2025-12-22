@@ -1,4 +1,4 @@
-<main class="dynamic_gender">
+<main class="gender_neutral">
 Almost all books have been lost, alongside with civilization. Nobody seems to remember the not-so-distant past. It had faded away. There are no records of it.<br/>
 
 As far as anyone remembers, the world was always radioactive, in ruins, deserted and covered in grey sand.<br/>
@@ -24,17 +24,18 @@ This is what makes them alive and going, chasing this dream. That justify the ri
 this ones known by several names but mostly [howlers](howlers.md), the remainder of what radiation can do to men or animals outside the cities.<br/>
 </main>
 
-> ... with the scope, you see a group of howlers sprinting - unusual, but not unseen. You start changing the course to
-> avoid them... and then you see <span data-gender="immune-poss">`her`</span>.<br/>
-> A <span data-gender="immune-gender">`woman`</span>. Running off.<br/>
-> <span data-gender="immune-pron">`She`</span> is the cause of the howlers' frenzy. Then something almost like pain, a
-> dark malaise-like feeling 
-> washes through you, starting in your head and falling through your shoulders like a burden:
-> <span data-gender="immune-pron">`she`</span> has no suit. <br/>
-> You almost decide to let the howlers take <span data-gender="immune-poss">`her`</span>. It would be quick, a mercy compared
-> to the weeks of radiation agony before the unavoidable end.<br/>
-> But you cannot force yourself to do it. You have to do something. You ready the sand cannons, adjust the course... to
-> drive directly into them.<br/>
+<blockquote class="dynamic_gender">
+... with the scope, you see a group of howlers sprinting - unusual, but not unseen. You start changing the course to
+avoid them... and then you see [her]{: .gender_element}.<br/>
+A [woman]{: .gender_element}. Running off.<br/>
+[She]{: .gender_element} is the cause of the howlers' frenzy. Then something almost like pain, a
+dark malaise-like feeling washes through you, starting in your head and falling through your shoulders like a burden:
+[she]{: .gender_element} has no suit. <br/>
+You almost decide to let the howlers take [her]{: .gender_element}. It would be quick, a mercy 
+compared to the weeks of radiation agony before the unavoidable end.<br/>
+But you cannot force yourself to do it. You have to do something. You ready the sand cannons, adjust the course... to
+drive directly into them.<br/>
+</blockquote>
 
 [tag]: #sci-fi
 [tag]: #scifi
