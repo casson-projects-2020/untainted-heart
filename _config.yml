@@ -2,4 +2,5 @@ title: Untainted Heart
 theme: jekyll-theme-midnight
 baseurl: "/untainted-heart"
 markdown: kramdown
-
+kramdown:
+  input: GFM  # GitHub Flavored Markdown
