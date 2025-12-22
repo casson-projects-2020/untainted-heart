@@ -1,3 +1,4 @@
+<main class="dynamic_gender">
 Almost all books have been lost, alongside with civilization. Nobody seems to remember the not-so-distant past. It had faded away. There are no records of it.<br/>
 
 As far as anyone remembers, the world was always radioactive, in ruins, deserted and covered in grey sand.<br/>
@@ -21,6 +22,7 @@ immune to radioactivity.<br/>
 
 This is what makes them alive and going, chasing this dream. That justify the risks of fighting giant animals, and the men-mutants - 
 this ones known by several names but mostly [howlers](howlers.md), the remainder of what radiation can do to men or animals outside the cities.<br/>
+</main>
 
 > ... with the scope, you see a group of howlers sprinting - unusual, but not unseen. You start changing the course to
 > avoid them... and then you see <span data-gender="immune-poss">`her`</span>.<br/>
