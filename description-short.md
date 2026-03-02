@@ -5,14 +5,14 @@ The world is now radioactive, in ruins, deserted and covered in grey sand.<br/>
 
 The remains, useless cars and sky-scrapers, tell about a past that don't exist anymore.<br/>
 
-There is little love lost between most of the citizens of the deep buried cities and the Dusters: the ones that cross the desert in large closed tank-like vans, the sand-crawlers.<br/>
+There is little love lost between most of the citizens of the deep buried cities and the dusters: the ones that cross the desert in large closed tank-like rigs, the sand-crawlers.<br/>
 
-Scarce surface goods that no one else can produce are desired, but more and more people seem to think that the outside world should be forgotten - and the duster's runs are waste of resources.<br/>
+Scarce surface goods are desired, but more and more people seem to think that the outside world should be forgotten and the duster's runs are waste of resources.<br/>
 
 All Dusters pursue a legend of a machine, the [Untainted Heart](untainted_heart.md), that can make people 
 immune to radioactivity.<br/>
 
-That justify the risks of fighting giant animals, and the men-mutants - the [howlers](howlers.md).
+That justify the risks of fighting giant animals, and the mutants - the [howlers](howlers.md).
 </main>
 
 <blockquote class="dynamic_gender">
