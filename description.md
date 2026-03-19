@@ -3,7 +3,6 @@ The huge, anti-rad lead doors grind open, and you see once again the familiar, e
 <br/>
   
 The [sandcrawler](sandcrawler.md) starts to move, heavy with the legs still up, useless over sandcrete. The comms startle you: "What's your dest, duster?"<br/> 
-<br/> 
 
 -The nearby ruins... a teeny run.<br/>
 
