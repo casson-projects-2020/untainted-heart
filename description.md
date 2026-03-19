@@ -1,8 +1,8 @@
 <main class="gender_neutral">
 The huge, anti-rad lead doors grind open, and you see once again the familiar, even craved, sight of the surface: an endless desert of grey sand. The always present claustro-agora of being in the Burrows vanishes.<br/>
 <br/>
-The [sand crawler](sand_crawler.md) starts to move, heavy with the legs still up, useless over sandcrete. The comms startle you: "What's your dest, [duster](dusters.md)?"<br/> 
-
+The [sand crawler](sand_crawler.md) starts to move, heavy with the legs still up, useless over sandcrete. The comms startle you: "What's your dest, duster?"<br/> 
+<br/> 
 -The nearby ruins... a teeny run.<br/>
 
 A short silence. "You won't find much there".<br/> 
@@ -21,7 +21,7 @@ All things of the past.<br/>
 
 You lower the two front legs over the little dune of sand piled above the ground level of the hangar, and the muffled roar of the blowers kicks in. The buoyancy starts to hold as the weight of the crawler's front diminishes.<br/> 
 
-"The bastards want glass" drives your thoughts toward the little love lost between most of the citizens and the dusters. More and more people seem to think that the outside world should be forgotten and the dusters' runs are waste of resources. -But they always want something, don't they?<br/>
+"The bastards want glass" drives your thoughts toward the little love lost between most of the citizens and the [dusters](dusters.md). More and more people seem to think that the outside world should be forgotten and the dusters' runs are waste of resources. -But they always want something, don't they?<br/>
 
 As always, you look at the sign dangling at the side of the main panel. "[Untainted Heart](untainted_heart.md)", it reads. -I won't be finding you there, I suppose.<br/>
 
