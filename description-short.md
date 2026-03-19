@@ -1,18 +1,27 @@
 <main class="gender_neutral">
-Almost all books have been lost, alongside with civilization.<br/>
+The anti-rad doors open, and you see the sight of the surface: an endless desert of grey sand.<br/>
+<br/>
+  
+The [sandcrawler](sandcrawler.md) starts to move. The comms startle you: "What's your dest, duster?"<br/> 
+<br/> 
 
-The world is now radioactive, in ruins, deserted and covered in grey sand.<br/>
+-The nearby ruins... a teeny run.<br/>
 
-The remains, useless cars and sky-scrapers, tell about a past that don't exist anymore.<br/>
+"Break a leg".<br/>
 
-There is little love lost between most of the citizens of the deep buried cities and the dusters: the ones that cross the desert in large closed tank-like rigs, the sand-crawlers.<br/>
+Not much to find there, but strangely, you always liked the view: abandoned, decayed cars and broken store fronts. But what always causes awe, even after a lifetime, are the skyscrapers: their impossibility - the sheer hubris of building so high in a world that can no longer manage to even be on the surface.<br/>
 
-Scarce surface goods are desired, but more and more people seem to think that the outside world should be forgotten and the duster's runs are waste of resources.<br/>
+All things of the past.<br/> 
 
-All Dusters pursue a legend of a machine, the [Untainted Heart](untainted_heart.md), that can make people 
-immune to radioactivity.<br/>
+"The bastards want glass" drives your thoughts toward the little love lost between most of the citizens and the [dusters](dusters.md).<br/> 
 
-That justify the risks of fighting giant animals, and the mutants - the [howlers](howlers.md).
+You look at the sign at the side of the main panel. "[Untainted Heart](untainted_heart.md)", it reads. -I won't be finding you there, I suppose.<br/>
+
+Then you get disheartened: the rad suit is not on the niche. -Damn it. <br/>
+
+Not much to do without it. Then you suddenly remember: you took it off last time and left it hanging inside the airlock.<br/>
+
+Relieved, your thoughts return to the Untainted Heart for the thousandth time. Some say it's a fool's legend. But this is what keeps dusters alive, chasing that dream. It justifies the risks of fighting giant animals, mutants, and the rad itself. Thinking about the [howlers](howlers.md) - the reminder of what radiation can do to men - always makes you shiver.<br/>
 </main>
 
 <blockquote class="dynamic_gender">
