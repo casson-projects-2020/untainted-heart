@@ -3,7 +3,6 @@ The anti-rad doors open, and you see the sight of the surface: an endless desert
 <br/>
   
 The [sandcrawler](sandcrawler.md) starts to move. The comms startle you: "What's your dest, duster?"<br/> 
-<br/> 
 
 -The nearby ruins... a teeny run.<br/>
 
