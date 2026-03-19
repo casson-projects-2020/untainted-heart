@@ -1,6 +1,6 @@
 <main class="gender_neutral">
 The huge, anti-rad lead doors grind open, and you see once again the familiar, even craved, sight of the surface: an endless desert of grey sand. The always present claustro-agora of being in the Burrows vanishes.<br/>
-
+<br/>
 The [sand crawler](sand_crawler.md) starts to move, heavy with the legs still up, useless over sandcrete. The comms startle you: "What's your dest, [duster](dusters.md)?"<br/> 
 
 -The nearby ruins... a teeny run.<br/>
@@ -31,7 +31,7 @@ Not much to do without it. As you think about having to return, you suddenly rem
 
 Relieved, your thoughts return to the Untainted Heart for the thousandth time. Some say it's a fool's legend. But this is what keeps dusters alive, chasing that dream. It justifies the risks of fighting giant animals, mutants, and the rad itself. Thinking about the [howlers](howlers.md) - the reminder of what radiation can do to men - always makes you shiver.<br/>
 
-- Well, who knows? You may be closer than we think.<br/>
+-Well, who knows? You may be closer than we think.<br/>
 </main>
 
 <blockquote class="dynamic_gender">
