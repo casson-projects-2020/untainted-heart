@@ -12,15 +12,13 @@ Not much to find there, but strangely, you always liked the view: abandoned, dec
 
 All things of the past.<br/> 
 
-"The bastards want glass" drives your thoughts toward the little love lost between most of the citizens and the [dusters](dusters.md).<br/> 
-
 You look at the sign at the side of the main panel. "[Untainted Heart](untainted_heart.md)", it reads. -I won't be finding you there, I suppose.<br/>
 
 Then you get disheartened: the rad suit is not on the niche. -Damn it. <br/>
 
 Not much to do without it. Then you suddenly remember: you took it off last time and left it hanging inside the airlock.<br/>
 
-Relieved, your thoughts return to the Untainted Heart for the thousandth time. Some say it's a fool's legend. But this is what keeps dusters alive, chasing that dream. It justifies the risks of fighting giant animals, mutants, and the rad itself. Thinking about the [howlers](howlers.md) - the reminder of what radiation can do to men - always makes you shiver.<br/>
+Relieved, your thoughts return to the Untainted Heart. Some say it's a fool's legend. But this is what keeps dusters alive, chasing that dream. It justifies the risks of fighting giant animals and mutants. Thinking about the [howlers](howlers.md) - the reminder of what radiation can do to men - always makes you shiver.<br/>
 </main>
 
 <blockquote class="dynamic_gender">
