@@ -1,6 +1,5 @@
 <main class="gender_neutral">
 The huge, anti-rad lead doors grind open, and you see once again the familiar, even craved, sight of the surface: an endless desert of grey sand. The always present claustro-agora of being in the Burrows vanishes.<br/>
-<br/>
   
 The [sandcrawler](sandcrawler.md) starts to move, heavy with the legs still up, useless over sandcrete. The comms startle you: "What's your dest, duster?"<br/> 
 
@@ -26,9 +25,9 @@ You lower the two front legs over the little dune of sand piled above the ground
 
 As always, you look at the sign dangling at the side of the main panel. "[Untainted Heart](untainted_heart.md)", it reads. -I won't be finding you there, I suppose.<br/>
 
-Then you get disheartened: the rad suit is not on the niche. -Damn it. <br/>
+You get suddenly disheartened: the rad suit is not on the niche. -Damn it. <br/>
 
-Not much to do without it. As you think about having to return, you suddenly remember: you mindlessly took it off last time and left it hanging inside the airlock.<br/>
+Not much to do without it. As you think about having to return, a memory: you mindlessly took it off last time and left it hanging inside the airlock.<br/>
 
 Relieved, your thoughts return to the Untainted Heart for the thousandth time. Some say it's a fool's legend. But this is what keeps dusters alive, chasing that dream. It justifies the risks of fighting giant animals, mutants, and the rad itself. Thinking about the [howlers](howlers.md) - the reminder of what radiation can do to men - always makes you shiver.<br/>
 
