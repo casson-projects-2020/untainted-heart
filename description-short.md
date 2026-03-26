@@ -1,5 +1,5 @@
 <main class="gender_neutral">
-The anti-rad doors open, and you see the sight of the surface: an endless desert of grey sand.<br/>
+The anti-rad doors open, and the sight of the surface hits: an endless desert of grey sand.<br/>
 <br/>
   
 The [sandcrawler](sandcrawler.md) starts to move. The comms startle you: "What's your dest, duster?"<br/> 
