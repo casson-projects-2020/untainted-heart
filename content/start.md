@@ -39,7 +39,7 @@ You take the sand crawler off autopilot and attempt to veer away, already fearin
 
 The Scorpion emerges from the cloud, right on top of the crawler. 
 
-You prep the sand cannon, but the damn creature has already climbed onto the crawler's roof. The sound of its many legs scraping against the metal ceiling sends involuntary shivers down your spine. You let go of the controls — steer away doesn't matter anymore.
+You turn on the sand cannon, but the damn creature has already climbed onto the crawler's roof. The sound of its many legs scraping against the metal ceiling sends involuntary shivers down your spine. You let go of the controls — steer away doesn't matter anymore.
 
 Often, they realize they can't eat a crawler and just leave. But just as often, they sever some leg tubes — and that could turn a few hours' trip back to the Burrow into days. Days without supplies. Days of hunger.
 
