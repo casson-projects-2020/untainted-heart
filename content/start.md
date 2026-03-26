@@ -21,7 +21,7 @@ config_form:
 <main class="gender_neutral">
 In a few hours, you’ll be back in the Burrow. 'No, stop it. Focus.' Dusters have a superstition about this: you relax when the mission is almost complete, and that’s when you make mistakes.
 
-Sleep doesn’t help. You slap your own face and go to make some tea. The scorching sun outside would certainly help keep you awake, but the sand crawler’s windows are made of dark, heavy glass.
+Sleepiness doesn’t help. You slap your own face and go to make some tea. The scorching sun outside would certainly help keep you awake, but the sand crawler’s windows are made of dark, heavy glass.
 
 Speaking of which — glass. Those bastards asked you to bring glass. Not just any kind, but mirrored windows. You cursed the Agros for the thousandth time. It wasn’t that the job was 
 hard; plenty of windows could be scavenged from the old skyscrapers. But you had a feeling this was another one of their crazy schemes, part of their eternal obsession with improving 
