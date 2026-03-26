@@ -33,7 +33,7 @@ Suddenly, the alarm blares, making you spill the rest of your tea.
 
 The scope isn't exactly a marvel of technology. If the path ahead gets much darker than it should, the alarm triggers. Looking at the feed, you see gray sand rising, forming clouds... too close.
 
-'Damn it.' You should have been watching the scope. Relaxing near the end always breeds trouble.
+'Damn it.' You should have been watching the scope. Relaxing near the end...
 
 You take the sand crawler off autopilot and attempt to veer away, already fearing the worst.
 
