@@ -33,6 +33,5 @@
         "sha": "fba0e4e392cb470569b5f5d0c2d81353948bcd79",
         "size": 139769,
         "html_url": "https://github.com/casson-projects-2020/untainted-heart/blob/main/sand_crawler.jpg"
-        }
     }
 ]
